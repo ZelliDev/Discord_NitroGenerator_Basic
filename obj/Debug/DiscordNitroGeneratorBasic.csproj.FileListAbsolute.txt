@@ -1,0 +1,7 @@
+G:\Programmation\NitroGeneratorBasic\DiscordNitroGeneratorBasic\bin\Debug\DiscordNitroGeneratorBasic.exe.config
+G:\Programmation\NitroGeneratorBasic\DiscordNitroGeneratorBasic\bin\Debug\DiscordNitroGeneratorBasic.exe
+G:\Programmation\NitroGeneratorBasic\DiscordNitroGeneratorBasic\bin\Debug\DiscordNitroGeneratorBasic.pdb
+G:\Programmation\NitroGeneratorBasic\DiscordNitroGeneratorBasic\obj\Debug\DiscordNitroGeneratorBasic.csprojAssemblyReference.cache
+G:\Programmation\NitroGeneratorBasic\DiscordNitroGeneratorBasic\obj\Debug\DiscordNitroGeneratorBasic.csproj.CoreCompileInputs.cache
+G:\Programmation\NitroGeneratorBasic\DiscordNitroGeneratorBasic\obj\Debug\DiscordNitroGeneratorBasic.exe
+G:\Programmation\NitroGeneratorBasic\DiscordNitroGeneratorBasic\obj\Debug\DiscordNitroGeneratorBasic.pdb
