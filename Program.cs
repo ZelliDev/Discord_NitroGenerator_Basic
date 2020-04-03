@@ -16,7 +16,7 @@ namespace DiscordNitroGeneratorBasic
         public static string oldCode = string.Empty;
         static void Main(string[] args)
         {
-            Console.Title = "Generator Discord Nitro";
+            Console.Title = "Discord Nitro Generator";
             Timer t = new Timer(TimerCallback, null, 0, 3000);
 
             Console.ReadKey();
@@ -57,7 +57,7 @@ namespace DiscordNitroGeneratorBasic
                     {
 
                         var content = client.GetStringAsync(new Uri("https://discordapp.com/api/v6/entitlements/gift-codes/" + finalString + "?with_application=false&with_subscription_plan=true")).Result;
-                        Console.WriteLine(finalString + " / EST UN BON CODE !" + Environment.NewLine);
+                        Console.WriteLine(finalString + " / IS A GOOD CODE !" + Environment.NewLine);
                        
                    
                     
@@ -75,11 +75,11 @@ namespace DiscordNitroGeneratorBasic
                         Console.ForegroundColor = ConsoleColor.White;
                         if (ex.InnerException.Message.Contains("404"))
                         {
-                            Console.WriteLine( " : Code nitro invalide" + Environment.NewLine);
+                            Console.WriteLine( " : Nitro Code Invalid!" + Environment.NewLine);
                         }
                         if (ex.InnerException.Message.Contains("429"))
                         {
-                            Console.WriteLine(" : Trop de Requêtes / 429" + Environment.NewLine);
+                            Console.WriteLine(" : Too Many Requests / 429" + Environment.NewLine);
                         }
                     
                 }
