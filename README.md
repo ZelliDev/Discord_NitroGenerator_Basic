@@ -1,6 +1,6 @@
 # Discord_NitroGenerator_Basic
 
-The project include a cloudflare bypasser prototype
+This project includes a cloudflare bypasser prototype
 In testing : 57 600 code tested by 48 hours (1 mess each 3 secs)
 
 adding proxy will provide 57 600 more code tested, BY EACH PROXIES
