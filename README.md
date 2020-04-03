@@ -10,3 +10,6 @@ By example 1500 proxies will do 86 400 000 code tested.
 
 
 You can help me by contributing to this project.
+
+# How to use
+Open the .sln in Visual Studio, and build it. Then, you need to run the .exe. If you ran it, and a command prompt popped up, you're ready.
